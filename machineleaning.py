@@ -78,4 +78,4 @@ def do_ml(ticker):
 
     return confidence
 
-do_ml('BAC')
+#do_ml('BAC')

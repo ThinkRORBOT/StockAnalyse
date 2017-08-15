@@ -1,0 +1,4 @@
+This program will help you to analyse stock prices.
+
+Press the escape key to return to the previous screen
+
